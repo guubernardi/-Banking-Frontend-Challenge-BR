@@ -214,9 +214,10 @@ Esse desafio demonstra que você sabe:
 
 ## ⚠️ Aviso legal
 
-Este projeto é um desafio **educacional e conceitual**.
+Este projeto é um desafio educacional e conceitual.
 Não possui vínculo oficial com Itaú, Nubank, Inter, C6 Bank, PicPay, Mercado Pago ou qualquer outra instituição financeira.
-Não use logos oficiais nem copie interfaces de bancos de forma idêntica.
+
+Recomendamos fortemente que você crie sua própria marca: invente um nome de banco, crie um logo, defina uma paleta de cores e construa uma identidade visual autoral. Esse desafio não é só sobre código — é sobre pensar como um engenheiro de software que entende de produto. Quem vai além do técnico e demonstra visão de produto se destaca no mercado.
 
 ---
 
