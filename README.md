@@ -149,7 +149,7 @@ A escolha da stack é **livre**. Algumas sugestões:
 
 ## 🎨 Layout de referência (Figma)
 
-> 🔗 **[Acessar o Figma →](#)** *(link será adicionado em breve)*
+> 🔗 **[Acessar o Figma →](https://www.figma.com/design/eSQ2IVa6l7GrcpTSHO77RD/Banking-Frontend-Challenge-BR?node-id=0-1&t=WvWn9pyp8MF6oC1r-1)** **
 
 O Figma funciona como **guia de estrutura e fluxo**, não como cópia obrigatória.
 
